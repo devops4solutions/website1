@@ -3,12 +3,12 @@ module.exports = {
   title: 'Devops4Solutions Documentation',
   tagline: 'Documentation provided by Devops4solutions',
   url: 'https://devops4solutions.github.io',
-  baseUrl: '/docs/',
+  baseUrl: '/website1/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'devops4solutions',
-  projectName: 'docs', // Usually your repo name.
+  projectName: 'website1', // Usually your repo name.
   plugins: [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
